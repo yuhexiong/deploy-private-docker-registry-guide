@@ -1,5 +1,7 @@
 # Deploy Private Docker Registry Guide
 
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
 Guide for deploying Private Docker Registry and UI, and then push image to registry.
 
 ## Deploy By Docker
@@ -44,6 +46,8 @@ click `Apply & restart`
 ![docker desktop](docker-desktop.png)  
 
 ## Build Image And Push
+
+at your project dir  
 
 build image
 ```bash
